@@ -3,4 +3,4 @@
 - Also enjoy working with 3D Modeling. Launched [cadl.io](https://www.cadl.io) as a free 3D asset repository
 - Built a robotic bartender named [iZac](https://tylermaran.github.io/izac/)
 
-Check out [tylermaran.com](https://www.tylermaran.com) to for more! 
+Check out [tylermaran.com](https://www.tylermaran.com) for more! 
