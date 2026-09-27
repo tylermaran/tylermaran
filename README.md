@@ -1,4 +1,4 @@
-### Just shipping code and fixing your data
+### Best code slinger this side of the Mississippi
 - Co-Founder at [Monumint]([https://getomni.ai/](https://monumint.com/)). Voice AI for financial services.
 - Author of [Zerox](https://github.com/getomni-ai/zerox) OCR library.
 - Formerly building [rysolv.com](https://www.rysolv.com), bug bounties turned hiring platform [Not really active anymore].
