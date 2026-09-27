@@ -1,5 +1,5 @@
 ### Just shipping code and fixing your data
-- Co-Founder at [OmniAI](https://getomni.ai/). Wrangling documents.
+- Co-Founder at [Monumint]([https://getomni.ai/](https://monumint.com/)). Voice AI for financial services.
 - Author of [Zerox](https://github.com/getomni-ai/zerox) OCR library.
 - Formerly building [rysolv.com](https://www.rysolv.com), bug bounties turned hiring platform [Not really active anymore].
 - A minimalist markdown based static site generator [markdown_ssg](https://github.com/rysolv/markdown_ssg)  
